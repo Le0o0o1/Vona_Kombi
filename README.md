@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=000&text=VoNa%20Kombi&fontColor=C4B454"/>
 
 # Quem somos?
-*Driving the future of logistics! | Conduzindo o futuro da logística!*
+*Sic Parvis Magna*
 
 Bem-vindo(a) à VNK, onde a inovação e a eficiência transformam o futuro da logística em realidade. Somos uma empresa dedicada a proporcionar soluções logísticas ágeis e precisas, utilizando as mais avançadas tecnologias para otimizar a movimentação de cargas e garantir resultados excepcionais. Nosso compromisso com a excelência nos permite integrar inteligência e agilidade nos processos, sempre com foco na satisfação de nossos clientes.
 
